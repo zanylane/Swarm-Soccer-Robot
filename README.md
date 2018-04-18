@@ -6,3 +6,6 @@ school. It worked out pretty well, but the control system that was to be designe
 completed, unfortunately, so I don't know how well it might have done in an actual competition.
 
 The PCB design files are Eagle format, and the programming was done in AVR Studio.
+
+I have a short write-up on it on my site: https://zanylane.com/swarm-robotics/
+
